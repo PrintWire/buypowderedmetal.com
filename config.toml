@@ -22,7 +22,7 @@ colorBgCardHover  = "#121320"
 fontPrimary   = "Orbitron"
 fontSecondary = "Space+Grotesk"
 
-newsFallbackImages = ["https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"]
+newsFallbackImages = ["/images/fallback1.png", "/images/fallback2.png", "/images/fallback3.png"]
 
 heroEyebrow  = "Powdered Metal Sourcing"
 heroTitle    = "Buy Powdered <em>Metal</em>"
@@ -31,7 +31,7 @@ heroCta1Text = "Explore Services"
 heroCta1URL  = "/services/"
 heroCta2Text = "Get a Quote"
 heroCta2URL  = "/contact/"
-heroImage    = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+heroImage    = "/images/hero.png"
 
 overviewTitle   = "Industrial Powdered Metal Supply"
 overviewText    = "From iron powder for press-and-sinter to plasma-atomised titanium for DMLS — powdered metal in every grade, every quantity, with full chemistry certification."
@@ -73,22 +73,22 @@ label  = "Delivery Lead Time"
 [[params.applications]]
 title       = "Metal Injection Moulding"
 description = "MIM-grade powders — fine particle size (<22µm) for complex net-shape component production."
-image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+image       = "/images/app-aerospace.png"
 
 [[params.applications]]
 title       = "Press & Sinter Parts"
 description = "Iron, steel, and bronze powder for conventional PM sintered structural components."
-image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+image       = "/images/app-medical.png"
 
 [[params.applications]]
 title       = "DMLS/SLM Feedstock"
 description = "LPBF-grade powder for direct metal laser sintering and selective laser melting."
-image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+image       = "/images/app-industrial.png"
 
 [[params.applications]]
 title       = "Thermal Spray"
 description = "Coarser powders for HVOF, plasma spray, and cold spray coating applications."
-image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+image       = "/images/app-energy.png"
 
 
 [[params.servicesPreview]]
